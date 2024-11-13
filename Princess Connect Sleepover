@@ -1,5 +1,5 @@
 :root{
-     --background: url('https://media.discordapp.net/attachments/487826393242009600/1306243788330500106/962aa9e3940360642130a9b0ca6e0ded.jpg?ex=6735f5d3&is=6734a453&hm=78a18d73347609a272df7a81e6ef2e3793bcc573202239089131935bce7d4ca3&=&format=webp&width=1202&height=676');
+     --background: url('https://img3.gelbooru.com/images/96/2a/962aa9e3940360642130a9b0ca6e0ded.jpg');
      --activetext-colour: white;
  
      --primary1-colour: red;
